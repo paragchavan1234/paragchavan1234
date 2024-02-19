@@ -61,10 +61,18 @@ During my studies in Computer Science, I developed a strong interest in **Cyber 
 <a href="https://learn.isc2.org/d2l/lp/profile/">
   <img src="https://img.shields.io/badge/-(ISC)²_Certified-FF6347?&style=for-the-badge&logo=ISC2&logoColor=white" />
 </a>
-  <img src="https://img.shields.io/badge/-Network%2B-4169E1?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-A%2B-808080?&style=for-the-badge&logo=CompTIA&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CDSA-008000?&style=for-the-badge&logoColor=white" />
-  <img src="https://img.shields.io/badge/-CCD-0000CD?&style=for-the-badge&logoColor=white" />
+<a href="https://tryhackme-certificates.s3-eu-west-1.amazonaws.com/THM-TR8JPIW7Q0.png">
+ <img src="https://img.shields.io/badge/-TryHackMe_Security_Learning_Path-4169E1?&style=for-the-badge&logo=tryhackme&logoColor=white" />
+</a>
+  <a href="chrome-extension://efaidnbmnnnibpcajpcglclefindmkaj/https://www.skillfront.com/certifications/SkillFront-SFE0163f087d64e6-07708165140848.pdf">
+ <img src="https://img.shields.io/badge/-Skill_Front_ISO%2FIEC_27001_Associate-808080?&style=for-the-badge&logo=SkillFront&logoColor=white" />
+  </a>
+<a href="https://www.coursera.org/account/accomplishments/verify/AS836T7D2CNQ">
+ <img src="https://img.shields.io/badge/-Google_Foundation_of_Cybersecurity-008000?&style=for-the-badge&logo=google&logoColor=white" />
+   </a>
+  <a href="https://app.kajabi.com/certificates/0e4620ea">
+<img src="https://img.shields.io/badge/-Cyberwarfare_Labs_Cyber_Security_Analyst-0000CD?&style=for-the-badge&logo=cyberwarfarelabs&logoColor=white" />
+   </a>
 </div>
 
 ---
