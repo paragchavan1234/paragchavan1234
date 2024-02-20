@@ -40,19 +40,20 @@ During my studies in Computer Science, I developed a strong interest in **Cyber 
 ## Tools
 
 ### Network
-- ![Wireshark](https://img.shields.io/badge/-Wireshark-ff69b4?&style=for-the-badge&logo=Wireshark&logoColor=white)
-- ![Suricata](https://img.shields.io/badge/-Suricata-87ceeb?&style=for-the-badge&logo=Suricata&logoColor=white)
+- ![nmap](https://img.shields.io/badge/-nmap-ff69b4?&style=for-the-badge&logo=nmap&logoColor=white)
+- ![Synk](https://img.shields.io/badge/-Synk-87ceeb?&style=for-the-badge&logo=snyk&logoColor=white)
 - ![Zeek](https://img.shields.io/badge/-Zeek-8a2be2?&style=for-the-badge&logo=Zeek&logoColor=white)
 
-### Endpoint
-- ![Microsoft Defender for Endpoint](https://img.shields.io/badge/-Microsoft_Defender_for_Endpoint-00FA9A?&style=for-the-badge&logo=Microsoft&logoColor=white)
-- ![Velociraptor](https://img.shields.io/badge/-Velociraptor-9400D3?&style=for-the-badge&logo=Velociraptor&logoColor=white)
+
 
 ### SIEM
 - ![Microsoft Sentinel](https://img.shields.io/badge/-Microsoft_Sentinel-1e90ff?&style=for-the-badge&logo=Microsoft&logoColor=white)
-- ![Splunk](https://img.shields.io/badge/-Splunk-2F4F4F?&style=for-the-badge&logo=Splunk&logoColor=white)
-- ![Elastic](https://img.shields.io/badge/-Elastic-8B4513?&style=for-the-badge&logo=Elastic&logoColor=white)
 
+
+### Cloud
+- ![AWS](https://img.shields.io/badge/-AWS-1e90ff?&style=for-the-badge&logo=amazonaws&logoColor=white)
+- ![Microsoft Azure](https://img.shields.io/badge/-Microsoft_Azure-2F4F4F?&style=for-the-badge&logo=microsoftazure&logoColor=white)
+- ![Google Cloud Platform (GCP)](https://img.shields.io/badge/-Google_Cloud_Platform-8B4513?&style=for-the-badge&logo=googlecloud&logoColor=white)
 ---
 
 ## Certifications
@@ -79,5 +80,6 @@ During my studies in Computer Science, I developed a strong interest in **Cyber 
 
 ## Projects
 
-- [Detection Lab](https://google.com)
-- [SOC Automation Project](#)
+- [Malware Analysis Tool](https://google.com)
+- [Image Steganography](https;//google.com)
+- []
