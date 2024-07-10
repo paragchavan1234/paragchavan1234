@@ -32,10 +32,7 @@ During my studies in Computer Science, I developed a strong interest in **Cyber 
 |-----------------------------------------------|--------------------------------------------------|
 | SIEM Implementation and Log Analysis          | [Detection Lab](https://google.com)              |
 | Network Traffic Monitoring and Attack Detection | [Detection Lab](https://google.com)              |
-| Security Automation with Shuffle SOAR         | [SOC Automation Lab](#)                          |
-| Incident Response Planning and Execution      | [SOC Automation Lab](#)                          |
-| Case Management with TheHive                  | [SOC Automation Lab](#)                          |
-| Scripting and Automation for Threat Mitigation | [SOC Automation Lab](#)                          |
+                  
 
 ## Tools
 
