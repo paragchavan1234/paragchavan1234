@@ -15,9 +15,9 @@
 
 ## Brief Introduction
 
-I'm currently pursuing a Masters degree in cyber security at Bharathiar University in Coimbatore, Tamil Nadu.
+I have completed my Masters degree in cyber security at Bharathiar University in Coimbatore, Tamil Nadu.
 I got my bachelor's degree in computer science from Fergusson College in Pune.
-Networking expertise includes IPv4, IPv6, the TCPIP model, Network Design and Architecture, Network Security, Data Security, Incident Response Handling and lifecycle, Risk Mitigation, Security Operation, GRC, Security Policies, and Secure SDLC.
+Networking expertise includes IPv4, IPv6, the TCPIP model, Network Design and Architecture, Network Security, Data Security, Securty testing tool SAST, DAST , Risk Mitigation, Security Operation, GRC, Security Policies, and Secure SDLC .
 
 
 ## Objective
